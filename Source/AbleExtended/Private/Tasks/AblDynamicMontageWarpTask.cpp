@@ -16,7 +16,7 @@
 #include "Animation/AnimMontage.h"
 #include "Components/SkeletalMeshComponent.h"
 #include "GameFramework/Character.h"
-#include "../Plugins/Marketplace/VarDumpPlus/Source/VarDump/Public/VarDump.h"
+
 
 //we have to declare the scratchpad constuctor and destructor
 UAblDynamicMontageScratchPad::UAblDynamicMontageScratchPad()
